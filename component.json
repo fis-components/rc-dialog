@@ -6,10 +6,8 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "classnames": "2.x",
-        "rc-align": "2.x",
         "rc-animate": "2.x",
         "rc-util": "3.x"
     },
-    "version": "5.4.0"
+    "version": "6.0.0-beta.1"
 }
